@@ -13,6 +13,6 @@ img.center {
 }
 
 /* KEY */
-#trigger:hover ~ body {
+img.center:hover ~ body {
     background-color: : #fff;
 }​
