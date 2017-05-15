@@ -1,9 +1,6 @@
-img {
+img.center {
+  margin: auto;
    position: absolute;
-   top: 50%;
-   left: 50%;
-   width: 500px;
-   height: 500px;
-   margin-top: -250px; /* Half the height */
-   margin-left: -250px; /* Half the width */
+   top: 0; left: 0; bottom: 0; right: 0;
+   min-width: 150px;
 }
